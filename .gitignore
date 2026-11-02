@@ -1,0 +1,5 @@
+isos/
+*.part
+__pycache__/
+.pytest_cache/
+*.bad
